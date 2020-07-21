@@ -1,0 +1,3 @@
+#TAI-ChatBOT
+
+リクルートのA3RTというAPIの中のチャットボット作成のためのTalkAPIを使ってDiscordで会話するためのBOTです
