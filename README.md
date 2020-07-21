@@ -13,10 +13,10 @@ pip3 install pya3rt
 
 [A3RT TalkAPI](https://a3rt.recruit-tech.co.jp/product/talkAPI/) からTalkAPIのトークンを取得する
 
-##実行
+## 実行
 `python3 bot.py`
 
 以上
 
-#ライセンス
+# ライセンス
 MITライセンス
