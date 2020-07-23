@@ -18,5 +18,9 @@ pip3 install pya3rt
 
 以上
 
+# Demo
+Discordサーバーに[こいつ](https://discord.com/api/oauth2/authorize?client_id=733265138362089492&permissions=2048&scope=bot)を招待してtai-chatというテキストチャンネルを作ってそこに話しかけると言葉を返します
+※要閲覧・発言権限
+
 # ライセンス
 MITライセンス
